@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+    <link rel="shortcut icon" type="image/ico" href="/assets/images/logo5.ico">
+</head>
+<body>
+
+<div class="container">
+    {% include header.html %}
+    <div class="content">
+        {{ content }}
+    </div>
+    <footer id="footer">
+        <ul>
+            <li><a href="mailto:info@consolidaad.nl">email</a></li>
+            <li><a href="https://github.com/consolidaad">github.com/consolidaad</a></li>
+            <li><a href="https://www.linkedin.com/company/consolidaad">LinkedIn</a></li>
+        </ul>
+    </footer>
+</div>
+
+</body>
+</html>
