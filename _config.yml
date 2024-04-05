@@ -3,4 +3,4 @@ markdown: kramdown
 exclude:
   - .idea
 
-gem "github-pages", "~> 231", group: :jekyll_plugins
+theme: jekyll-theme-feeling-responsive
