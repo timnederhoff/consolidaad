@@ -40,7 +40,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/Consolidaad/consolidaad.github.io/tree/02962a293f799dea350c25ad7c7d746169440d5a/assets/images'
+urlimg: '/images/'
 
 
 # Logo size is 600x80 pixels
