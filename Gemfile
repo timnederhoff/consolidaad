@@ -1,12 +1,8 @@
 source 'https://rubygems.org'
 
-group :jekyll_plugins do
-  gem 'jekyll-gist'
-  gem 'jekyll-paginate'
-  gem 'jekyll-asciidoc'
-  gem 'github-pages'
-end
+gem 'jekyll', '~> 4.3.3'
+gem 'jekyll-asciidoc'
+gem 'jekyll-paginate'
+gem 'jekyll-gist'
 
-gem 'asciidoctor', '~> 1.5.4'
-gem 'coderay', '1.1.1'
 gem 'webrick'

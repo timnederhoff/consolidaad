@@ -27,8 +27,8 @@ author: Tim Nederhoff
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://consolidaad.github.io'
-baseurl: '/consolidaad'
+url: 'https://www.consolidaad.nl'
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -44,7 +44,7 @@ urlimg: 'https://github.com/Consolidaad/consolidaad.github.io/tree/02962a293f799
 
 
 # Logo size is 600x80 pixels
-logo: "Logo_Consolidaad_Light.png"
+logo: "Logo_Consolidaad_Dark.png"
 
 # Plugins
 plugins:
