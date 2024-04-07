@@ -3,7 +3,7 @@
 ------------------------------------------------------------------- */
 
 .highlight {
-    background: #fff;
+    background: #555;
     [data-lang]::before {
     content: attr(data-lang);
     display: block;
