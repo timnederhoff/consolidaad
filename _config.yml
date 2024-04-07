@@ -44,7 +44,7 @@ urlimg: 'https://github.com/Consolidaad/consolidaad.github.io/tree/02962a293f799
 
 
 # Logo size is 600x80 pixels
-logo: "Logo_Consolidaad_Dark.png"
+logo: "Logo_Consolidaad_Light.svg"
 
 # Plugins
 plugins:
@@ -80,7 +80,6 @@ exclude:
   - INSTALL.md
   - vendor
   - .idea
-  - CNAME
   - .gitignore
 
 # The language setting is used in /includes/header.html for html-settings
@@ -181,7 +180,7 @@ msapplication_tilecolor              : '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image                             : 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+og_image                             : ''
 og_locale                            : 'en_EN'
 og_type                              : 'website'
 
@@ -196,9 +195,7 @@ og_type                              : 'website'
 #
 
 socialmedia:
-  twitter   : phlow
-  facebook  : phlow.media
-
+  github   : https://github.com/consolidaad
 
 #        ____  _
 #       / __ \(_)________ ___  _______
